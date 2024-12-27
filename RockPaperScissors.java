@@ -2,29 +2,13 @@
 /*
  * RockPaperScissors.java
  * Author:  Armaan Shah
- * Submission Date: October 4rd 2024
  *
  *This program does the following:
  *Based on how many points the user wants to play till, the computer will play rock paper scissors, 
  *against the user. The user will input either "rock", "paper", or "scissors" and when testing mode is false, 
  *the computer will randomly select one of the 3. The points are tracked after each round and the game continues until, 
  *there is a winner. 
- *
- * Statement of Academic Honesty:
- *
- * The following code represents my own work. I have neither 
- * received nor given inappropriate assistance. I have not copied 
- * or modified code from any source other than the course webpage 
- * or the course textbook. I recognize that any unauthorized 
- * assistance or plagiarism will be handled in accordance with 
- * the University of Georgia's Academic Honesty Policy and the 
- * policies of this course. I recognize that my work is based 
- * on an assignment created by the School of Computing 
- * at the University of Georgia. Any publishing or
- * posting of source code for this assignment is strictly 
- * prohibited unless you have written consent from the 
- * School of Computing at the University of Georgia.  
- */
+
 import java.util.Scanner;
 
 public class RockPaperScissors {
